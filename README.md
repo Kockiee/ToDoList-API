@@ -1,2 +1,2 @@
 # ToDoList API
-A to-do list api to made a to-do list website.
+Uma api para criar, atualizar, deletar e listar tarefas para ser utilizada em Website de *ToDoLists*.
