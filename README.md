@@ -3,12 +3,9 @@
  <span>Uma api para</span>
 
 > <li style="list-style-type: none;"><strong>Atualizar</strong></li>
-> <li><strong>Deletar</strong></li>
-> <li><strong>Listar</strong></li>
+> <li style="list-style-type: none;"><strong>Deletar</strong></li>
+> <li style="list-style-type: none;"><strong>Listar</strong></li>
  
- 
-
-
 ## Instalação
 
 - Instale o projeto em seu pc com
