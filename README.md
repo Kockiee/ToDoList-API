@@ -1,6 +1,12 @@
 # ToDoList API
 
-Uma api para criar, atualizar, deletar e listar tarefas para ser utilizada em Websites de *ToDoLists*.
+ <span>Uma api para</span>
+
+> <li style="list-style-type: none;"><strong>Atualizar</strong></li>
+> <li><strong>Deletar</strong></li>
+> <li><strong>Listar</strong></li>
+ 
+ 
 
 
 ## Instalação
@@ -13,6 +19,9 @@ cd ToDoList
 npm install
 docker run --name mysql -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 -d mysql
 ```
+
+## Documentação da API
+
 Conecte-se no mysql criado e execute a seguinte query:
 
 ```bash
@@ -33,11 +42,7 @@ Execute a aplicação com o comando:
 npm run dev
 ```
 
-
-    
-## Documentação da API
-
-#### api-key
+#### Api-Key
 
 Desnecessária no momento
 
