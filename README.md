@@ -1,6 +1,6 @@
 # ToDoList API
 
- <span>Uma api para</span>
+ <span>Uma api para gereciamento de tarefas</span>
 
 > <li style="list-style-type: none;"><strong>Atualizar</strong></li>
 > <li style="list-style-type: none;"><strong>Deletar</strong></li>
